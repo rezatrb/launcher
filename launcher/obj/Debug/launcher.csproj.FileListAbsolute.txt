@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\launcher\launcher\bin\Debug\launcher.exe.config
+C:\Users\ASUS\Desktop\launcher\launcher\bin\Debug\launcher.exe
+C:\Users\ASUS\Desktop\launcher\launcher\bin\Debug\launcher.pdb
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.Form1.resources
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.Properties.Resources.resources
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.exe
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.pdb
+C:\Users\ASUS\Desktop\launcher\launcher\obj\Debug\launcher.formPB.resources
